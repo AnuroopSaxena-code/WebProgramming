@@ -1,9 +1,22 @@
 h1{
   text-align: centre;
-  font-color: blue;
+  color: blue;
 }
 
 nav{
   text-align: centre;
-  font-color: red;
+  color: red;
+}
+
+.p1{
+  color: red;
+  text-decoration: underline;
+}
+
+.p{
+  color: blue;
+}
+
+#id1{
+  color: green;
 }
